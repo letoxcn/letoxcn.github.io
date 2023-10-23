@@ -1,0 +1,152 @@
+body {
+  background-color: #f9f9f7;
+}
+.topbar ul li img {
+  vertical-align: middle;
+}
+.topbar img .phone {
+  width: 18px;
+  height: 18px;
+
+  /* Inside auto layout */
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+
+  /* Icon */
+
+  position: absolute;
+  left: 12.5%;
+  right: 12.5%;
+  top: 12.5%;
+  bottom: 12.5%;
+
+  /* Neutral/01 */
+  border: 1.5px solid #ffffff;
+}
+.topbar ul {
+  font-family: DM Sans;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: rgba(249, 249, 247, 1);
+}
+.topbar img .mail {
+  width: 18px;
+  height: 18px;
+}
+.topbar img li .social {
+  width: Hug 120.68px;
+  height: Hug 27.17px;
+  top: 9px;
+  left: 1325px;
+  gap: 4px;
+  position: fixed;
+}
+.ntua_vcd_kitchen img .japanese-food h1 {
+  width: 182.67px;
+  height: 38.67px;
+  top: 8px;
+  left: 28.33px;
+  padding: 4px, 0px, 4.67px, 41.33px;
+}
+
+.ntua_vcd_kitchen img .japanese-food {
+  padding: 129px;
+  width: 56px;
+  height: 55px;
+  top: 4px;
+  left: 38.33px;
+
+  position: relative;
+}
+
+.ntua_vcd_kitchen h1 {
+  width: 325px;
+  height: 0px;
+  top: 4px;
+  left: 41.33px;
+
+  text-decoration: Playfair Display;
+  text-align: center;
+  font-weight: 600;
+  font-style: italic;
+  font-size: 42.67px;
+  line-height: 29.33px;
+  letter-spacing: -0.4px;
+
+  padding: 129px;
+  color: #474747;
+  position: relative;
+}
+.ntua_vcd_kitchen ul li {
+  display: inline-block;
+  margin: 10px;
+  top: 4px;
+  left: 554.33px;
+  vertical-align: middle;
+  position: relative;
+  text-align: right;
+}
+.ntua_vcd_kitchen ul li button {
+  width: Hug 112px;
+  height: Hug 48px;
+  top: 3.5px;
+  left: 1163.5px;
+  padding: 12px, 24px, 12px, 24px;
+  border-radius: 118px;
+  border: 1.5px;
+  gap: 10px;
+  border-color: rgba(219, 223, 208, 1);
+
+  font-family: DM Sans;
+  font-style: bold;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: right;
+}
+.ntua_vcd_kitchen ul a button {
+  width: Hug 112px;
+  height: Hug 48px;
+  top: 3.5px;
+  left: 1163.5px;
+  padding: 12px, 24px, 12px, 24px;
+  border-radius: 118px;
+  border: 1.5px;
+  gap: 10px;
+
+  border: 1.5px colorrgba(44, 47, 36, 1);
+  position: absolute;
+
+  font-family: DM Sans;
+  font-style: bold;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0px;
+  text-align: right;
+}
+
+.ntua_vcd_kitchen {
+  background-color: #474747;
+  padding: 25px;
+  width: 1600px;
+  height: 45px;
+}
+.ntua_vcd_kitchen a {
+  text-decoration: none;
+  color: #2c2f24;
+  vertical-align: middle;
+}
+.ntua_vcd_kitchen ul {
+  display: inline-block;
+  padding: 0%;
+  margin: 0px;
+  vertical-align: middle;
+
+  text-align: right;
+}
