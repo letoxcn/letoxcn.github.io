@@ -61,12 +61,12 @@ body {
   background-color: #f9f9f7;
   border-radius: 118px;
   border-color: #2c2f24;
-  /*border: 1.5px;嚗�//*~~~~~�箔��⊥�*/
+
   font-weight: 600;
   padding: 12px 24px;
   gap: 10px;
 }
-/*銝行�撠漤�header*/
+
 .header ul {
   display: inline-block;
 }
@@ -74,7 +74,7 @@ body {
   display: inline-block;
   vertical-align: middle;
 }
-/*�埝�蝡�*/
+
 .header {
   position: absolute;
   top: 74px;
