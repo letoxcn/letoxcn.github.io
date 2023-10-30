@@ -113,18 +113,18 @@ body {
   background-color: #f9f9f7;
   border-color: #2c2f24;
   margin: 6px;
-  /*border: 1.5px;*/
 }
+
 .order button:hover {
   background-color: #ad3431;
   color: #ffffff;
   border-color: #ad3431;
 }
-/*銝行�*/
+
 .order li {
   display: inline-block;
 }
-/*�埝�蝡�*/
+
 .order {
   position: absolute;
   top: 620px;
